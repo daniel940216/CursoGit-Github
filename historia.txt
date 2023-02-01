@@ -2,4 +2,6 @@ Inicio de la historia
 
 Historia Acerca de Daniel Osorio
 
-Version del texto V1.
+Se agrega una nueva linea en la versión.
+
+Version del texto V2.
